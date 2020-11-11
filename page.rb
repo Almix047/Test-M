@@ -2,7 +2,7 @@
 
 require_relative 'page_parser.rb'
 
-DAY = 86_400
+DAY = 86_400 *40
 
 LOGIN_XPATH = '//div[@id="YouTubeUserTopInfoBlockTop"]//h2/text()'
 
